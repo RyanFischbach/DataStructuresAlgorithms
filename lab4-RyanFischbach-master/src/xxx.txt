@@ -1,0 +1,20 @@
+
+
+Welcome to Lab #4 (April, 2020)
+
+Basically, you will replace all of
+my files with your own work.
+
+Please remember to:
+
+ 1. Activate GiT,  with (VCS->Enable Version Control).
+ 2. Commit your work to Git, with the green "check".
+ 3. As you add new files, include them in your "git"
+     (you will be queried).
+ 4. Anytime you want to "push" back to GitLab:
+     a.  "commit" to your Git
+     b.  "Push" back to GitLab
+
+If you have questions about this
+lab, including Git and GitLab,
+you should contact me.
